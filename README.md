@@ -1,4 +1,4 @@
-#About the project
+# About the project
 
 The aim of the project is to extract the data present in different spreadsheets in one excel file as required by the user. 
 The excel sheet consists of 5 spreadsheets with the following data:
